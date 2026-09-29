@@ -2,6 +2,6 @@ ofxHTTP
 ofxIO
 ofxMediaType
 ofxNetworkUtils
-ofxPoco
+ofxPocoHeaders
 ofxSSLManager
 ofxUnitTests

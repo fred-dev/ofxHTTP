@@ -8,7 +8,7 @@
 #pragma once
 
 
-#include "ofx/HTTP/Response"
+#include "ofx/HTTP/Response.h"
 
 
 namespace ofx {

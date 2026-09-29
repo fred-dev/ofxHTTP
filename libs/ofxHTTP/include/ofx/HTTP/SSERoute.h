@@ -8,6 +8,7 @@
 #pragma once
 
 
+#include <queue>
 #include <set>
 #include "ofx/HTTP/AbstractServerTypes.h"
 #include "ofx/HTTP/BaseRoute.h"

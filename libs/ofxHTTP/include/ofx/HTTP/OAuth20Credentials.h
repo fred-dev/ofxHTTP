@@ -10,7 +10,7 @@
 
 #include <string>
 #include "ofConstants.h"
-#include "json.hpp"
+#include "ofJson.h"
 
 
 namespace ofx {
