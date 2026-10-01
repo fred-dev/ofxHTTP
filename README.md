@@ -1,5 +1,8 @@
 # ofxHTTP
 
+> **About this fork:** fork of [bakercp/ofxHTTP](https://github.com/bakercp/ofxHTTP). This branch matches upstream. The `poco_headers_only` branch builds against [ofxPocoHeaders](https://github.com/fred-dev/ofxPocoHeaders) instead of the old ofxPoco addon.
+
+
 ## Description
 
 An [openFrameworks](http://openframeworks.cc) addon for custom HTTP clients and servers.
