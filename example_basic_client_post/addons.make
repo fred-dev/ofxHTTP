@@ -1,6 +1,6 @@
-ofxHTTP
+ofxPocoHeaders
+ofxSSLManager
 ofxIO
 ofxMediaType
 ofxNetworkUtils
-ofxPocoHeaders
-ofxSSLManager
+ofxHTTP
